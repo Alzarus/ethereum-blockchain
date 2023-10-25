@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+https://medium.com/como-programar-em-1-dia/como-aprender-blockchain-e-smart-contracts-em-1-dia-18fe3748409b
+https://www.udemy.com/course/como-aprender-blockchain-e-smart-contracts-em-1-dia
